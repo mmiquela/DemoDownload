@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/marshamiquela/Desktop/October25/week1-day2-html-css/css/style.css",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/marshamiquela/Desktop/October25/week1-day2-html-css/css/HTML-Bio-withCSS.html",
+			"settings":
+			{
+				"buffer_size": 1264,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Pac",
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"test"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marshamiquela/Desktop/October25/week1-day2-html-css/css/HTML-Bio-withCSS.html",
+		"/Users/marshamiquela/Desktop/October25/week1-day2-html-css/css/style.css",
+		"/Users/marshamiquela/Desktop/October25/week1-day2-html-css/html/HTML-Bio-withCSS.html",
+		"/Users/marshamiquela/Desktop/October 25/week1-day2-html-css/html/HTML-Bio-withCSS.html",
+		"/Users/marshamiquela/Desktop/October 25/week1-day2-html-css/css/HTML-Bio-withCSS.html",
+		"/Users/marshamiquela/Desktop/October 25/week1-day2-html-css/css/style.css",
+		"/Users/marshamiquela/Desktop/October 25/week1-day2-html-css/html/HTML-Bio.html",
+		"/Users/marshamiquela/Desktop/October 23/index.html",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-7/BrokenCode/BooTheDog.html",
+		"/Users/marshamiquela/Desktop/October/my-repo/bio.html",
+		"/Users/marshamiquela/Desktop/October 25/week1-day2-html-css/student-bio.html",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-7/BrokenCode/style.css",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-7/BrokenCode/logic.js",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-9/style.css",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-8/My First Website.html",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-10/javascript.js",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-10/index.html",
+		"/Users/marshamiquela/Desktop/PREWORK_MGM/Module-10/fadesample.html",
+		"/Users/marshamiquela/Library/Mobile Documents/com~apple~CloudDocs/Desktop/PRE WORK ASSIGNMENTS/Assignment #10/javascript.js",
+		"/Users/marshamiquela/Library/Mobile Documents/com~apple~CloudDocs/Desktop/PRE WORK ASSIGNMENTS/Assignment #10/Module10.html",
+		"/Users/marshamiquela/Library/Mobile Documents/com~apple~CloudDocs/Desktop/PRE WORK ASSIGNMENTS/Assignment #10/fadesample.html",
+		"/Users/marshamiquela/Library/Mobile Documents/com~apple~CloudDocs/Desktop/PRE WORK ASSIGNMENTS/Assignment #10/index.html",
+		"/Users/marshamiquela/Desktop/PRE WORK ASSIGNMENTS/Assignment #10/index.html",
+		"/Users/marshamiquela/Desktop/Assignment 7.sublime-project",
+		"/Users/marshamiquela/Desktop/Assignment #7.sublime-project",
+		"/Users/marshamiquela/Desktop/Assignment #9 Exercise.html",
+		"/Users/marshamiquela/Desktop/Assignment #9 Exercise.css",
+		"/Users/marshamiquela/Desktop/BooTheDog.sublime-project",
+		"/Users/marshamiquela/Desktop/BooTheDog.sublime-workspace",
+		"/Users/marshamiquela/Desktop/Assignment #9.html",
+		"/Users/marshamiquela/Downloads/My First Website_files/My First Website.htm",
+		"/Users/marshamiquela/Downloads/My First Website_files/fanpage.html",
+		"/Users/marshamiquela/Downloads/Broken_and_Working_Code (2)/BrokenCode/BooTheDog.html",
+		"/Users/marshamiquela/Downloads/Broken_and_Working_Code (2)/WorkingCode/GrumpyCat.html",
+		"/Users/marshamiquela/Downloads/Broken_and_Working_Code (2)/BrokenCode/logic.js",
+		"/Users/marshamiquela/Downloads/Broken_and_Working_Code/BrokenCode/logic.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/marshamiquela/Desktop/October25/week1-day2-html-css/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/marshamiquela/Desktop/October25/week1-day2-html-css/css/HTML-Bio-withCSS.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								218
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 73.0
+	},
+	"pinned_build_system": "",
+	"project": "HTML-BiowithCSS.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
